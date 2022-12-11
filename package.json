@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dogashri/my-first-server#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
